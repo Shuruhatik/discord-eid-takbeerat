@@ -1,8 +1,6 @@
 # Discord Eid Takbeerat تكبيرات العيد
 Easy and fast, you can make an audio broadcast from YouTube directly to Discord
 
-![MuslimBot](https://www4.0zz0.com/2021/07/17/14/907325515.png)
-
 ## Requirements
 - Node 14.x+
 - `npm i @discordjs/voice`
@@ -19,3 +17,4 @@ Easy and fast, you can make an audio broadcast from YouTube directly to Discord
 ## ST STudio
 - [Discord Server](https://dsc.gg/shuruhatik)
 - [Website](https://www.shuruhatik.xyz/)
+![MuslimBot](https://www4.0zz0.com/2021/07/17/14/907325515.png)
