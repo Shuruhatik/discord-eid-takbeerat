@@ -9,7 +9,7 @@ client.on(`ready`, async () => {
   await broadcast.start({
     channel: process.env['channel'], 
     youtube: process.env['youtube'] || `https://www.youtube.com/watch?v=tkNS43oYxwY`,
-    client: client,discordjs
+    client: client,
     discordvoice: discordvoice 
   })
 })
