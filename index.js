@@ -4,7 +4,7 @@ const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES", 'GUILD
 const discordvoice = require('@discordjs/voice');
 const Monitor = require('ping-monitor');
 const url = `https://${process.env.REPL_SLUG}.${process.env.REPL_OWNER}.repl.co/`
-const myMonitor = new Monitor({website: url,title: process.env.REPL_SLUG,interval: 3 });
+const myMonitor = new Monitor({website: url,title: process.env.REPL_SLUG,interval: 2 });
 
 client.on(`ready`, async () => {
   console.log(`Bot Ready\nﻞﺼﺘﻣ ﺕﻮﺒﻟﺍ`)
