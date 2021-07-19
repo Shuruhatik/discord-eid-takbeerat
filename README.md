@@ -1,5 +1,6 @@
 # Discord Eid Takbeerat تكبيرات العيد
-Easy and fast, you can make an audio broadcast from YouTube directly to Discord
+- Easy and fast, you can make an audio broadcast from YouTube directly to Discord
+- If you want to make a copy of the project hosted by Replit, [click here](https://repl.it/github/Shuruhatik/discord-eid-takbeerat/)
 
 ## Requirements
 - Node 14.x+
