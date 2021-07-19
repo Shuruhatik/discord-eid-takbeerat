@@ -1,0 +1,27 @@
+{
+  "name": "discord-eid-takbeerat-3",
+  "version": "1.0.0",
+  "description": "- Easy and fast, you can make an audio broadcast from YouTube directly to Discord - If you want to make a copy of the project hosted by Replit, [click here](https://repl.it/github/Shuruhatik/discord-eid-takbeerat/)",
+  "main": "index.js",
+  "dependencies": {
+    "discord-broadcast": "^1.0.4",
+    "discord.js": "^13.0.0-dev.77784ac.1626696170",
+    "ping-monitor": "^0.6.1",
+    "tweetnacl": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuruhatik/discord-eid-takbeerat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shuruhatik/discord-eid-takbeerat/issues"
+  },
+  "homepage": "https://github.com/Shuruhatik/discord-eid-takbeerat#readme"
+}
